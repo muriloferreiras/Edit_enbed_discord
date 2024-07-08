@@ -1,2 +1,2 @@
 # Edit_enbed_discord
- When pressing the enter button, the user enters the embed, When pressing the exit button, the user exits the enbed
+ Ao pressionar o botão entrar, O usuário entra no embed, Ao pressionar o botão sair,o usuário sai do enbed
